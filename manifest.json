@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Title Extension",
+    "version": "1.0",
+    "description": "A Chrome extension that fetches the title of the current tab and displays it.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "tabs"
+    ]
+  }
+  
